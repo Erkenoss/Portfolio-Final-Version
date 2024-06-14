@@ -7,13 +7,11 @@
         [ ] Brightness
         [ ] Contrast
         [ ] Sound
-    [ ] Video Font
-        After the first scene
-    [ ] Multiply Characters (Multiply color in fact but same system (this feature is especilay to learn))
+    [ ] Multiply Characters (Multiply color in fact but same system (this feature is especialy to learn))
     [ ] Animation of the main menu
         [ ] Buttons
         [ ] Texts
-    [ ] Prepare change difficulty
+    [x] Prepare change difficulty
     [ ] Image game as BG
     [ ] Transition between menus
 

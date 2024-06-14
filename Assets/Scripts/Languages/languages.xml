@@ -1,0 +1,72 @@
+<languages>
+    <language name="English">
+        <Game>Play</Game>
+        <NewGame>New Game</NewGame>
+        <LoadGame>Load Game</LoadGame>
+        <Load>Load</Load>
+        <Delete>Delete</Delete>
+        <Settings>Settings</Settings>
+        <Authors>Authors</Authors>
+        <MainQuit>Quit</MainQuit>
+
+        <TitleSettings>Settings</TitleSettings>
+        <Languages>Languages</Languages>
+        <English>English</English>
+        <French>French</French>
+        <Parameters>Parameters</Parameters>
+        <SoundText>Sound</SoundText>
+        <Brightness>Luminosity</Brightness>
+        <ContrastText>Contrast</ContrastText>
+        <Sound>Volume</Sound>
+        <Difficulties>Difficulty</Difficulties>
+        <VeryEasy>Very Easy</VeryEasy>
+        <Easy>Easy</Easy>
+        <Normal>Normal</Normal>
+        <Hard>Hard</Hard>
+        <VeryHard>Very Hard</VeryHard>
+
+        <TitleAuthors>Authors</TitleAuthors>
+        <MBTIProfile>Mbti profile</MBTIProfile>
+        <TitleIdeas>Tests, Ideas and Assets</TitleIdeas>
+
+        <TitleChoice>Select your character</TitleChoice>
+        <Explain>This feature will provide more characters in the future. It is actually intended to help me train</Explain>
+        <Return>Main Menu</Return>
+    </language>
+
+    <language name="French">
+        <Game>Jouer</Game>
+        <NewGame>Nouvelle partie</NewGame>
+        <LoadGame>Charger Partie</LoadGame>
+        <Load>Charger</Load>
+        <Delete>Effacer</Delete>
+        <Settings>Options</Settings>
+        <Authors>Auteurs</Authors>
+        <MainQuit>Quitter</MainQuit>
+
+        <TitleSettings>Options</TitleSettings>
+        <Languages>Langages</Languages>
+        <English>Anglais</English>
+        <French>Français</French>
+        <Parameters>Paramètres</Parameters>
+        <SoundText>Son</SoundText>
+        <Brightness>Luminosité</Brightness>
+        <ContrastText>Contrast</ContrastText>
+        <Sound>Volume</Sound>
+        <Difficulties>Difficulté</Difficulties>
+        <VeryEasy>Trés Facile</VeryEasy>
+        <Easy>Facile</Easy>
+        <Normal>Normal</Normal>
+        <Hard>Difficile</Hard>
+        <VeryHard>Trés Difficile</VeryHard>
+
+        <TitleAuthors>Auteurs</TitleAuthors>
+        <MBTIProfile>Profil mbti</MBTIProfile>
+        <TitleIdeas>Idées, tests et Ressources</TitleIdeas>
+
+        <TitleChoice>Selectionne ton personnage</TitleChoice>
+        <Explain>Cette features offrira a terme plus de personnage. Actuellement, elle est prévu pour m'entrainer</Explain>
+
+        <Return>Menu Principal</Return>
+    </language>
+</languages>
